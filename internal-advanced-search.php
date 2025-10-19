@@ -24,7 +24,7 @@ function dis_get_editor_rules() {
     // Fallback rules without ACF
     return [
         [
-            'trigger_keywords'   => 'raw diet, raw food, barf',
+            'trigger_keywords'   => 'saas, b2b, b2c',
             'mapped_tags'        => [], // Term IDs (post_tag)
             'mapped_categories'  => [], // Term IDs (category)
             'mapped_posts'       => [], // Post IDs
